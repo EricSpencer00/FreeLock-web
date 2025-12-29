@@ -14,8 +14,8 @@ The site is deployed to GitHub Pages. Updates to `main` branch automatically dep
 
 ## About FreeLock
 
-FreeLock is a privacy-first iOS app blocker that uses physical NFC cards as unlock keys. Learn more at [github.com/EricSpencer00/FreeLock](https://github.com/EricSpencer00/FreeLock).
+FreeLock is a privacy-first iOS app blocker that uses physical NFC cards as unlock keys. Learn more at [https://github.com/from-america/FreeLock-web](https://github.com/from-america/FreeLock-web)
 
 ## License
 
-© 2025 FreeLock. All rights reserved.
+© 2025 FROM AMERICA LLC. All rights reserved.
